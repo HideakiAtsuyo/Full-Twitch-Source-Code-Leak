@@ -22,3 +22,5 @@ Repository listing: https://dpaste.org/MvoM (dead)
 Jeff Bezos paid $970 million for this, we're giving it away FOR FREE.
 
 #DoBetterTwitch
+
+INCLUDING THE TWITCH DATABASE!!
