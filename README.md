@@ -8,6 +8,7 @@
 > Every other property that Twitch owns including IGDB and CurseForge<br>
 > An unreleased Steam competitor from Amazon Game Studios<br>
 > Twitch SOC internal red teaming tools (lol)<br>
+> name, surname, company name (of each streamer !)
 
 AND: Creator payout reports from 2019 until now. Find out how much your favorite streamer is really making!
 
